@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="National Geographic">
+    <display-name lang="pt">National Geographic</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cine+">
+    <display-name lang="pt">Cine+</display-name>
+    <icon src="http://www.lineup.tv.br/canais/1569952663.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Combo Cine">
+    <display-name lang="pt">Combo Cine</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvjustica.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Animal Planet [Brazil]">
+    <display-name lang="pt">Animal Planet [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Gloob [Brazil]">
+    <display-name lang="pt">Gloob [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus [Brazil]">
+    <display-name lang="pt">HBO Plus [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Premiere 2">
+    <display-name lang="pt">Premiere 2</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="Premiere 3">
+    <display-name lang="pt">Premiere 3</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+</tv>
